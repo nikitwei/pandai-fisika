@@ -1,4 +1,4 @@
-# pandai_fisika
+# pandai-fisika
 
 A new Flutter project.
 
